@@ -14,7 +14,6 @@ const Agent = ({ userName }: AgentProps) => {
     const messages = [
         'Whats your name?',
         'My name is Nichada, Nice to meet you'
-
     ];
     const lastMesssage = messages[messages.length - 1];
     
